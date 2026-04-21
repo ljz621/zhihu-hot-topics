@@ -1,0 +1,285 @@
+{
+  "hot_list": [
+    {
+      "rank": 1,
+      "id": "1",
+      "title": "2024年AI领域最重要的突破是什么？",
+      "category": "AI",
+      "answer_count": 528,
+      "url": "https://www.zhihu.com/topic/1",
+      "answers": [
+        {
+          "id": "a1",
+          "author": "AI研究者",
+          "upvote_count": 3240,
+          "url": "https://www.zhihu.com/answer/a1"
+        },
+        {
+          "id": "a2",
+          "author": "科技评论员",
+          "upvote_count": 2156,
+          "url": "https://www.zhihu.com/answer/a2"
+        },
+        {
+          "id": "a3",
+          "author": "程序员小王",
+          "upvote_count": 1892,
+          "url": "https://www.zhihu.com/answer/a3"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "2",
+      "title": "2024年中国经济走势如何？",
+      "category": "经济",
+      "answer_count": 412,
+      "url": "https://www.zhihu.com/topic/2",
+      "answers": [
+        {
+          "id": "b1",
+          "author": "经济学家",
+          "upvote_count": 2860,
+          "url": "https://www.zhihu.com/answer/b1"
+        },
+        {
+          "id": "b2",
+          "author": "财经博主",
+          "upvote_count": 1543,
+          "url": "https://www.zhihu.com/answer/b2"
+        },
+        {
+          "id": "b3",
+          "author": "股市分析师",
+          "upvote_count": 987,
+          "url": "https://www.zhihu.com/answer/b3"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "3",
+      "title": "如何看待当前的社会热点事件？",
+      "category": "社会",
+      "answer_count": 389,
+      "url": "https://www.zhihu.com/topic/3",
+      "answers": [
+        {
+          "id": "c1",
+          "author": "媒体人",
+          "upvote_count": 2105,
+          "url": "https://www.zhihu.com/answer/c1"
+        },
+        {
+          "id": "c2",
+          "author": "律师",
+          "upvote_count": 1678,
+          "url": "https://www.zhihu.com/answer/c2"
+        },
+        {
+          "id": "c3",
+          "author": "网友",
+          "upvote_count": 892,
+          "url": "https://www.zhihu.com/answer/c3"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "4",
+      "title": "有哪些值得关注的科技趋势？",
+      "category": "科技",
+      "answer_count": 356,
+      "url": "https://www.zhihu.com/topic/4",
+      "answers": [
+        {
+          "id": "d1",
+          "author": "科技观察者",
+          "upvote_count": 1987,
+          "url": "https://www.zhihu.com/answer/d1"
+        },
+        {
+          "id": "d2",
+          "author": "创业者",
+          "upvote_count": 1234,
+          "url": "https://www.zhihu.com/answer/d2"
+        },
+        {
+          "id": "d3",
+          "author": "工程师",
+          "upvote_count": 876,
+          "url": "https://www.zhihu.com/answer/d3"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "5",
+      "title": "有哪些免费好用的在线工具？",
+      "category": "资源和工具",
+      "answer_count": 278,
+      "url": "https://www.zhihu.com/topic/5",
+      "answers": [
+        {
+          "id": "e1",
+          "author": "工具达人",
+          "upvote_count": 1567,
+          "url": "https://www.zhihu.com/answer/e1"
+        },
+        {
+          "id": "e2",
+          "author": "效率控",
+          "upvote_count": 1234,
+          "url": "https://www.zhihu.com/answer/e2"
+        },
+        {
+          "id": "e3",
+          "author": "产品经理",
+          "upvote_count": 789,
+          "url": "https://www.zhihu.com/answer/e3"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "6",
+      "title": "AI会取代哪些职业？",
+      "category": "AI",
+      "answer_count": 445,
+      "url": "https://www.zhihu.com/topic/6",
+      "answers": [
+        {
+          "id": "f1",
+          "author": "HR分析师",
+          "upvote_count": 2345,
+          "url": "https://www.zhihu.com/answer/f1"
+        },
+        {
+          "id": "f2",
+          "author": "职业规划师",
+          "upvote_count": 1876,
+          "url": "https://www.zhihu.com/answer/f2"
+        },
+        {
+          "id": "f3",
+          "author": "AI从业者",
+          "upvote_count": 1234,
+          "url": "https://www.zhihu.com/answer/f3"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "7",
+      "title": "如何投资理财最靠谱？",
+      "category": "经济",
+      "answer_count": 523,
+      "url": "https://www.zhihu.com/topic/7",
+      "answers": [
+        {
+          "id": "g1",
+          "author": "理财专家",
+          "upvote_count": 3456,
+          "url": "https://www.zhihu.com/answer/g1"
+        },
+        {
+          "id": "g2",
+          "author": "银行经理",
+          "upvote_count": 2134,
+          "url": "https://www.zhihu.com/answer/g2"
+        },
+        {
+          "id": "g3",
+          "author": "博主",
+          "upvote_count": 1654,
+          "url": "https://www.zhihu.com/answer/g3"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "8",
+      "title": "社会老龄化会带来哪些影响？",
+      "category": "社会",
+      "answer_count": 298,
+      "url": "https://www.zhihu.com/topic/8",
+      "answers": [
+        {
+          "id": "h1",
+          "author": "社会学家",
+          "upvote_count": 1876,
+          "url": "https://www.zhihu.com/answer/h1"
+        },
+        {
+          "id": "h2",
+          "author": "人口研究员",
+          "upvote_count": 1234,
+          "url": "https://www.zhihu.com/answer/h2"
+        },
+        {
+          "id": "h3",
+          "author": "政策分析师",
+          "upvote_count": 876,
+          "url": "https://www.zhihu.com/answer/h3"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "9",
+      "title": "最新手机值得买吗？",
+      "category": "科技",
+      "answer_count": 234,
+      "url": "https://www.zhihu.com/topic/9",
+      "answers": [
+        {
+          "id": "i1",
+          "author": "数码博主",
+          "upvote_count": 1543,
+          "url": "https://www.zhihu.com/answer/i1"
+        },
+        {
+          "id": "i2",
+          "author": "科技编辑",
+          "upvote_count": 987,
+          "url": "https://www.zhihu.com/answer/i2"
+        },
+        {
+          "id": "i3",
+          "author": "用户",
+          "upvote_count": 654,
+          "url": "https://www.zhihu.com/answer/i3"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "10",
+      "title": "有哪些学习资源推荐？",
+      "category": "资源和工具",
+      "answer_count": 187,
+      "url": "https://www.zhihu.com/topic/10",
+      "answers": [
+        {
+          "id": "j1",
+          "author": "学习达人",
+          "upvote_count": 1234,
+          "url": "https://www.zhihu.com/answer/j1"
+        },
+        {
+          "id": "j2",
+          "author": "老师",
+          "upvote_count": 876,
+          "url": "https://www.zhihu.com/answer/j2"
+        },
+        {
+          "id": "j3",
+          "author": "学霸",
+          "upvote_count": 543,
+          "url": "https://www.zhihu.com/answer/j3"
+        }
+      ]
+    }
+  ],
+  "update_time": "2024-01-01T00:00:00"
+}
