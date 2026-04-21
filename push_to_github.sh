@@ -2,9 +2,7 @@
 # 推送到GitHub仓库
 
 # 配置
-REPO_NAME="zhihu-hot-topics"
-GITHUB_USER="ljz621"
-GITHUB_URL="https://github.com/${GITHUB_USER}/${REPO_NAME}.git"
+GITHUB_URL="https://github.com/ljz621/zhihu-hot-topics"
 
 # 获取当前目录
 CURRENT_DIR="$(cd "$(dirname "$0")" && pwd)"
